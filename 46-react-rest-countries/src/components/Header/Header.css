@@ -1,0 +1,16 @@
+.menu{
+  color: rgb(37, 34, 34);
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.menu a{
+  text-decoration:none;
+  margin-right: 20px;
+  color: rgba(22, 91, 241, 0.61);
+  
+}
