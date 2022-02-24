@@ -1,19 +1,11 @@
 import './App.css';
 import Countries from './components/Countries/Countries';
-import Hearder from './components/Header/Hearder';
-import Person from './components/Person/Person';
-
 
 function App() {
   return (
   <div className='App'>
-   <Countries/> 
-
-
-
-   
-   <Person/>
-   <Hearder/>
+  <h1 className='header-style'>Allah is great</h1>
+  <Countries/>
   </div>
   );
 }

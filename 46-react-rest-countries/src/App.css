@@ -49,3 +49,9 @@
 .text{
   text-align: center;
 }
+
+.header-style{
+  background-color: aliceblue;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

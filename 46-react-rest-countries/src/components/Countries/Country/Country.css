@@ -1,0 +1,12 @@
+.country-style{
+  background-color: rgba(219, 234, 240, 0.397);
+  border:  2px solid aquamarine;
+  border-radius: 15px;
+  margin: 30px;
+}
+
+.country-style img{
+  width: 300px;
+  margin-top: 30px;
+  border: 5px solid #031e25;
+}
